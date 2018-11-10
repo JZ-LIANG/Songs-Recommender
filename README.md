@@ -13,8 +13,6 @@ Notebook can be divided into two parts:
  Then we choose the collaborative-filtering approach to build our recommender system, which in other word is to fill our "preference matrix". We use Parallel Altenating Least Squares(ALS) in Spark-MLLib to implement the above algorithm.
 
 <p align="center">
-<figure>
     <img src="images/matrix_img.png" width="200">
     <figcaption>preference matrix</figcaption>
-</figure>
 </p>
