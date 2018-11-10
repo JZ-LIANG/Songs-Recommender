@@ -15,5 +15,5 @@ Notebook can be divided into two parts:
 
 <p align="center">
     <img src="images/matrix_img.png" width="200">
-    <em>Preference Matrix</em>
+    <em align="center"> Preference Matrix </em>
 </p>
