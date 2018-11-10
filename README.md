@@ -2,6 +2,14 @@
 
 In this notebook, we focus on how to build a simple songs recommender system.
 
+
+
+<p align="center">
+    <img src="images/matrix_img.png" width="350" alt>
+    <em> Preference Matrix </em>
+</p>
+
+
 The idea is to find "similar" users, so that the system can suggest new artists according to these similarities. In other words: if user "A" likes artist "X", a similar user "B" could like "X" too.
 
 Notebook can be divided into two parts:
@@ -13,7 +21,3 @@ Notebook can be divided into two parts:
  Then we choose the **Collaborative-Filtering** approach to build our recommender system, which in other word is to fill our "preference matrix". We use Parallel Altenating Least Squares**(ALS)** in Spark-MLLib to implement the above algorithm.
 
 
-<p align="center">
-    <img src="images/matrix_img.png" width="200" alt>
-    <em> Preference Matrix </em>
-</p>
