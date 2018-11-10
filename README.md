@@ -14,10 +14,7 @@ Notebook can be divided into two parts:
 
 <p align="center">
 <figure>
-    <img src="images%20/matrix_img.png" width="200">
+    <img src="images/matrix_img.png" width="200">
     <figcaption>preference matrix</figcaption>
 </figure>
 </p>
-
-
-a songs recommendation system in Python using Spark-MLLib modules.
