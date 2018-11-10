@@ -6,9 +6,9 @@ In this notebook, we focus on how to build a simple songs recommender system.
 
 <p align="center">
     <img src="images/matrix_img.png" width="350" alt>
-    <em> Preference Matrix </em>
 </p>
-
+<p align="center"> Preference Matrix </p>
+<br>
 
 The idea is to find "similar" users, so that the system can suggest new artists according to these similarities. In other words: if user "A" likes artist "X", a similar user "B" could like "X" too.
 
